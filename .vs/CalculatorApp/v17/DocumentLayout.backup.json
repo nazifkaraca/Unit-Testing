@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\er\\source\\repos\\UnitTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{229DF72B-BBE5-435E-B3C3-45B42862B108}|CalculatorApp.Test\\CalculatorApp.Test.csproj|c:\\users\\er\\source\\repos\\unittesting\\calculatorapp.test\\mathhelpertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229DF72B-BBE5-435E-B3C3-45B42862B108}|CalculatorApp.Test\\CalculatorApp.Test.csproj|solutionrelative:calculatorapp.test\\mathhelpertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16548F5-DDB7-444E-8153-34DF56D68658}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\er\\source\\repos\\unittesting\\calculatorapp\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16548F5-DDB7-444E-8153-34DF56D68658}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathHelper.cs",
+              "DocumentMoniker": "C:\\Users\\er\\source\\repos\\UnitTesting\\CalculatorApp\\MathHelper.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\MathHelper.cs",
+              "ToolTip": "C:\\Users\\er\\source\\repos\\UnitTesting\\CalculatorApp\\MathHelper.cs",
+              "RelativeToolTip": "CalculatorApp\\MathHelper.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:17:27.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathHelperTest.cs",
+              "DocumentMoniker": "C:\\Users\\er\\source\\repos\\UnitTesting\\CalculatorApp.Test\\MathHelperTest.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.Test\\MathHelperTest.cs",
+              "ToolTip": "C:\\Users\\er\\source\\repos\\UnitTesting\\CalculatorApp.Test\\MathHelperTest.cs",
+              "RelativeToolTip": "CalculatorApp.Test\\MathHelperTest.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:13:05.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
