@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\er\\source\\repos\\UnitTesting\\Web Api Testing\\Library.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA0DAEC-AF0F-4B68-9BE7-05FCBA829F95}|LibraryAPI.Test\\LibraryAPI.Test.csproj|c:\\users\\er\\source\\repos\\unittesting\\web api testing\\library.api\\libraryapi.test\\bookscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA0DAEC-AF0F-4B68-9BE7-05FCBA829F95}|LibraryAPI.Test\\LibraryAPI.Test.csproj|solutionrelative:libraryapi.test\\bookscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC24DB71-FA58-465C-B127-D2EF0A4E02C4}|Library.API\\Library.API.csproj|c:\\users\\er\\source\\repos\\unittesting\\web api testing\\library.api\\library.api\\data\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC24DB71-FA58-465C-B127-D2EF0A4E02C4}|Library.API\\Library.API.csproj|solutionrelative:library.api\\data\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC24DB71-FA58-465C-B127-D2EF0A4E02C4}|Library.API\\Library.API.csproj|c:\\users\\er\\source\\repos\\unittesting\\web api testing\\library.api\\library.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC24DB71-FA58-465C-B127-D2EF0A4E02C4}|Library.API\\Library.API.csproj|solutionrelative:library.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC24DB71-FA58-465C-B127-D2EF0A4E02C4}|Library.API\\Library.API.csproj|c:\\users\\er\\source\\repos\\unittesting\\web api testing\\library.api\\library.api\\data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC24DB71-FA58-465C-B127-D2EF0A4E02C4}|Library.API\\Library.API.csproj|solutionrelative:library.api\\data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC24DB71-FA58-465C-B127-D2EF0A4E02C4}|Library.API\\Library.API.csproj|c:\\users\\er\\source\\repos\\unittesting\\web api testing\\library.api\\library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC24DB71-FA58-465C-B127-D2EF0A4E02C4}|Library.API\\Library.API.csproj|solutionrelative:library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC24DB71-FA58-465C-B127-D2EF0A4E02C4}|Library.API\\Library.API.csproj|c:\\users\\er\\source\\repos\\unittesting\\web api testing\\library.api\\library.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC24DB71-FA58-465C-B127-D2EF0A4E02C4}|Library.API\\Library.API.csproj|solutionrelative:library.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 208,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\er\\source\\repos\\UnitTesting\\Web Api Testing\\Library.API\\Library.API\\Data\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Library.API\\Data\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\er\\source\\repos\\UnitTesting\\Web Api Testing\\Library.API\\Library.API\\Data\\Services\\BookService.cs",
+              "RelativeToolTip": "Library.API\\Data\\Services\\BookService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T20:20:23.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\er\\source\\repos\\UnitTesting\\Web Api Testing\\Library.API\\LibraryAPI.Test\\BooksControllerTest.cs",
+              "RelativeDocumentMoniker": "LibraryAPI.Test\\BooksControllerTest.cs",
+              "ToolTip": "C:\\Users\\er\\source\\repos\\UnitTesting\\Web Api Testing\\Library.API\\LibraryAPI.Test\\BooksControllerTest.cs",
+              "RelativeToolTip": "LibraryAPI.Test\\BooksControllerTest.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAuwIAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T20:05:22.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\er\\source\\repos\\UnitTesting\\Web Api Testing\\Library.API\\Library.API\\Program.cs",
+              "RelativeDocumentMoniker": "Library.API\\Program.cs",
+              "ToolTip": "C:\\Users\\er\\source\\repos\\UnitTesting\\Web Api Testing\\Library.API\\Library.API\\Program.cs",
+              "RelativeToolTip": "Library.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T20:04:34.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\er\\source\\repos\\UnitTesting\\Web Api Testing\\Library.API\\Library.API\\Startup.cs",
+              "RelativeDocumentMoniker": "Library.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\er\\source\\repos\\UnitTesting\\Web Api Testing\\Library.API\\Library.API\\Startup.cs",
+              "RelativeToolTip": "Library.API\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T20:04:27.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\er\\source\\repos\\UnitTesting\\Web Api Testing\\Library.API\\Library.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Library.API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\er\\source\\repos\\UnitTesting\\Web Api Testing\\Library.API\\Library.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Library.API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T20:03:30.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\er\\source\\repos\\UnitTesting\\Web Api Testing\\Library.API\\Library.API\\Data\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Library.API\\Data\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\er\\source\\repos\\UnitTesting\\Web Api Testing\\Library.API\\Library.API\\Data\\Models\\Book.cs",
+              "RelativeToolTip": "Library.API\\Data\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T20:02:58.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 192,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
