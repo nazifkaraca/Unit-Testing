@@ -1,0 +1,264 @@
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.exe
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.deps.json
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.json
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.dev.json
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.Views.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.Views.pdb
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csprojAssemblyReference.cache
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\staticwebassets\LibraryApp.StaticWebAssets.Manifest.cache
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\staticwebassets\LibraryApp.StaticWebAssets.xml
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorAssemblyInfo.cache
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorAssemblyInfo.cs
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfo.cs
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.TagHelpers.input.cache
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.TagHelpers.output.cache
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorCoreGenerate.cache
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Books\Create.cshtml.g.cs
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Books\Delete.cshtml.g.cs
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Books\Details.cshtml.g.cs
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Books\Edit.cshtml.g.cs
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorTargetAssemblyInfo.cache
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorTargetAssemblyInfo.cs
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.Views.pdb
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.CopyComplete
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\Ervis Trupja\Documents\UNIT TESTING\Exercise Files\Ch04\04_01\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.StaticWebAssets.xml
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.exe
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.deps.json
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.json
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.dev.json
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.Views.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.Views.pdb
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfo.cs
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorAssemblyInfo.cache
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorAssemblyInfo.cs
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.sourcelink.json
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.TagHelpers.input.cache
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.TagHelpers.output.cache
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorCoreGenerate.cache
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Books\Create.cshtml.g.cs
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Books\Delete.cshtml.g.cs
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Books\Details.cshtml.g.cs
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Books\Edit.cshtml.g.cs
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorTargetAssemblyInfo.cache
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorTargetAssemblyInfo.cs
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.Views.pdb
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\staticwebassets\LibraryApp.StaticWebAssets.Manifest.cache
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\staticwebassets\LibraryApp.StaticWebAssets.Pack.cache
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.LibraryApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.LibraryApp.props
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.LibraryApp.props
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.LibraryApp.props
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.Up2Date
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\monst\source\repos\Unit-Testing\MVC Testing\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.genruntimeconfig.cache
