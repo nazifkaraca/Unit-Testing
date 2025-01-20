@@ -1,5 +1,4 @@
 # Advanced ASP.NET Core: Unit Testing  
-🎓 **LinkedIn Learning Course Overview**  
 
 Welcome to the **Advanced ASP.NET Core: Unit Testing** course! 🚀 This course, hosted on LinkedIn Learning, is designed to empower you with the knowledge and skills needed to write robust and maintainable unit tests for your ASP.NET Core applications. 💻 Whether you're an experienced developer or just diving into unit testing, this course is packed with advanced techniques and practical tips to elevate your testing game. 🛠️  
 
@@ -24,8 +23,8 @@ In this course, you'll dive deep into **unit testing** principles and practices 
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/your-username/advanced-aspnet-core-unit-testing.git  
-   cd advanced-aspnet-core-unit-testing  
+   git clone https://github.com/nazifkaraca/Unit-Testing.git 
+   cd Unit-Testing
    ```  
 
 2. **Install Dependencies**  
@@ -48,12 +47,3 @@ In this course, you'll dive deep into **unit testing** principles and practices 
 - **.NET SDK** (download from [dotnet.microsoft.com](https://dotnet.microsoft.com/))  
 - Familiarity with C# and basic testing concepts  
 
----
-
-## 👥 Who This Course Is For  
-
-This course is perfect for:  
-
-- ASP.NET Core developers aiming to improve their unit testing skills 🧑‍💻  
-- Teams looking to implement best practices in test-driven development (TDD) 🤝  
-- Engineers working on large-scale ASP.NET Core applications requiring robust testing strategies 🏗️  
