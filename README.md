@@ -26,19 +26,11 @@ In this course, you'll dive deep into **unit testing** principles and practices 
    git clone https://github.com/nazifkaraca/Unit-Testing.git 
    cd Unit-Testing
    ```  
-
-2. **Install Dependencies**  
-   Ensure you have the required tools installed (see [Requirements](#requirements)). Use the following command to install project dependencies:  
-   ```bash  
-   dotnet restore  
-   ```  
-
-3. **Run the Tests**  
+2. **Run the Tests**  
    Execute the test suite using the .NET CLI:  
    ```bash  
    dotnet test  
    ```  
-
 ---
 
 ## ⚙️ Requirements  
